@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there !
 
-<!--
-**encode-abdullah/encode-abdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Abdullah a CS student. I build things, break them, then build them better.
 
-Here are some ideas to get you started:
+Based in Karachi, turning late nights hustle into working products alongside learning it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My stack: React · Node.js · Express · MongoDB · TailwindCSS · Git
+
+I'm early in the journey but I ship real projects not just tutorials.
+
+---
+
+**A few things about me:**
+
+- I learn best by building something I actually want to exist
+- Still figuring out whether I'm a frontend or backend person
+- Karachi never sleeps and neither does my VS Code
+
+---
+
+*If you want to see what I'm working on, the repos are right below.*
+*Currently learning. Always building.*
