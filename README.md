@@ -46,18 +46,6 @@ My approach: ship working products, learn from production issues, iterate.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=encode-abdullah&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=encode-abdullah&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## Current Focus
 
 - Full-stack development with MERN stack
