@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abdullah
+# Abdullah Arif
 
 Full Stack Developer | Building real products, not just tutorials.
 
