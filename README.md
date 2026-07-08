@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abdullah Arif
+# Abdullah
 
 Full Stack Developer | Building real products, not just tutorials.
 
@@ -58,6 +58,8 @@ My approach: ship working products, learn from production issues, iterate.
 ## Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/encode-abdullah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/encodeabdullah/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/encode_abdullah/)
 
 ---
 
